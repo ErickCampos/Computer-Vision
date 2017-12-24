@@ -1,3 +1,0 @@
-/home/erick/Codes/FaceDetect/CMakeFiles/edit_cache.dir
-/home/erick/Codes/FaceDetect/CMakeFiles/rebuild_cache.dir
-/home/erick/Codes/FaceDetect/CMakeFiles/facedetect.dir
